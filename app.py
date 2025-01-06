@@ -1,6 +1,7 @@
 
 def greet(name):
-    return f"Hi there {name}! Hope you are enjoying this lesson."
+    return f"Hello there, {name}! Welcome to our git collaboration demo! Hope you are enjoying it."
+
 
 if __name__ == "__main__":
     user_name = input("Please enter your name: ")
